@@ -1,15 +1,17 @@
 <h1 align="center"> Camila Riquelme Araneda </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/yoJC2K6rCzwNY2EngA/giphy.gif" width="200px" />
+  <img src="https://raw.githubusercontent.com/brenns10/tetris/master/tetris.gif" width="200px" />
 </p>
 
 ---
 
 ## 🌷 About Me
+- 💮 20-year-old Chilean woman
 - 🎓 Computer Science Student at Pontificia Universidad Católica de Chile  
 - 🤖 Passionate about **competitive programming, robotics, and mathematics**  
-- 🎮 Tetris player     
+- 🎮 Tetris player -> @camiwawita
+- 🌺 HAIKYUU! FAN     
 
 ---
 
