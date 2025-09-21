@@ -16,8 +16,7 @@
 ---
 
 ## 📂 Featured Projects
-- 🧩 **[Codeforces Solutions](https://github.com/camilitaaaaaa/codeforces-solutions)** – my journey through problem-solving in C++  
-- 🧩 **[OCIs](https://github.com/camilitaaaaaa/ocis)** – My codes from Olimpiada Chilena de Informática in C++  
+- 🧩 **[Competitive Programming](https://github.com/camilitaaaaaa/codeforces-solutions)** – my journey through problem-solving in C++  
 
 ---
 
