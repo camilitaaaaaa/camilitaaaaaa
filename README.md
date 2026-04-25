@@ -11,7 +11,6 @@
 - 🎓 Computer Science Student at Pontificia Universidad Católica de Chile  
 - 🤖 Passionate about **competitive programming, robotics, and mathematics**  
 - 🎮 Tetris player -> @camiwawita
-- 🌺 HAIKYUU! FAN     
 
 ---
 
