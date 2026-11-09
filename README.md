@@ -7,7 +7,7 @@
 ---
 
 ## 🌷 About Me
-- 💮 20-year-old Chilean 
+- 💮 21-year-old Chilean 
 - 🎓 Computer Science Student at Pontificia Universidad Católica de Chile  
 - 🤖 Passionate about **competitive programming, robotics, and mathematics**  
 - 🎮 Tetris player -> @camiwawita
